@@ -1,0 +1,4 @@
+bot-project/
+ ├── bot.js
+ ├── package.json
+ ├── .env (مش هترفعه)
